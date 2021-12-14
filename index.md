@@ -23,6 +23,27 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <iframe src="https://player.vimeo.com/video/654636031" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
+## 3. Fetching Data
+
+### 1 Reading Local File or Remote Page to Extract
+<iframe src="https://player.vimeo.com/video/654639135" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Curl usage in PHP
+<iframe src="https://player.vimeo.com/video/654639977" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Hide Yourself from Remote Server with CURL
+<iframe src="https://player.vimeo.com/video/654641943" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Fetch Data over HTTPS with CURL
+<iframe src="https://player.vimeo.com/video/654644136" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Cookie, Encoding, and Custom headers with CURL
+<iframe src="https://player.vimeo.com/video/654645733" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Converting Fetched Data to JSON
+<iframe src="https://player.vimeo.com/video/654648475" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
