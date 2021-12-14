@@ -11,6 +11,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <iframe src="https://player.vimeo.com/video/654630123" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
+## 2. API vs Scraping
+
+### 1 What is Scraping
+<iframe src="https://player.vimeo.com/video/654631393" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 What is API
+<iframe src="https://player.vimeo.com/video/654634083" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 API vs Scraping
+<iframe src="https://player.vimeo.com/video/654636031" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 
 ### Markdown
 
