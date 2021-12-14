@@ -44,6 +44,31 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <iframe src="https://player.vimeo.com/video/654648475" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
+
+## 4. Data Extraction
+
+### 1 Defining and Seeking Pattern Blocks in HTML
+<iframe src="https://player.vimeo.com/video/654649565" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 What is REGEX Why We Need
+<iframe src="https://player.vimeo.com/video/654652345" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Usage of preg_match() function
+<iframe src="https://player.vimeo.com/video/654657384" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Usage of preg_match_all() function
+<iframe src="https://player.vimeo.com/video/654660426" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Example 1 Exploring patterns and Extracting Data From Local HTML File
+<iframe src="https://player.vimeo.com/video/654663113" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Example 2 Exploring patterns and Extracting Data with file_get_content()
+<iframe src="https://player.vimeo.com/video/654666574" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 7 Example 3 Exploring patterns and Extracting Data with CURL
+<iframe src="https://player.vimeo.com/video/654670370" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
